@@ -1,14 +1,14 @@
 # ========== Profile ========== #
 # avatar
-avatar: /avatar/Misaka.jpg
+avatar: /avatar/header.jpg
 # author name
-author: fi3ework
+author: hotskiper
 # signature
-signature: witness me
+signature: hello world
 # SNS (you can custom the order)
 social:
-  email: 12345@qq.com
-  github: //github.com/fi3ework
+  email: 380311869@qq.com
+  github: //github.com/hotskiper  
   # wechat and qq should be a path of qr-code image
   wechat: /assets/example_qr.png
   qq: 
@@ -29,26 +29,26 @@ social:
   others: 
   rss: 
 # friends
-friends:
-  friendA: //www.baidu.com
-  friendB: //www.google.com
-  friendC: 
+# friends:
+#   friendA: 
+#   friendB: 
+#   friendC: 
 about:
-  enable: true
+  enable: false
   image: '/intro/about-bg.jpg'
 
 # ========== Site ========== #
 # title of the site (good for SEO)
-SEO_title: fi3ework's Studio
+SEO_title: takeshi's Studio
 # keywords for site (good for SEO)
 SEO_keywords:
   - hexo
   - 'hexo-theme'
   - 'hexo-blog'
 # main title shown in header image
-main_title: fi3ework's Studio.
+main_title: takeshi's Studio.
 # subtitle
-subtitle: it's better to burn out than to fade away
+subtitle: あ そ
 # site haeder image
 site_header_image: '/intro/index-bg.jpg'
 # post haeder image
@@ -102,7 +102,7 @@ CNZZ_analytics:
 
 # ========== Others ========== #
 # favicon
-favicon: /assets/favicon.ico
+favicon: /assets/icon.ico
 # truncate length of abstracts in index page (the default is 300, there will be no abstruct if you input 0)
 truncate_length: 
 # enable toc
