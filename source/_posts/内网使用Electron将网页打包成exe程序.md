@@ -1,5 +1,9 @@
 ---
 title: 内网使用Electron将网页打包成exe程序
+categories:
+- web
+tags:
+- Electron
 ---
 最近有个需求，需要把前端静态页面打包成一个exe程序，百度了一下，主要有[Electron](https://electronjs.org/)和[NW.JS](https://nwjs.org.cn/)这两个构建桌面应用的工具，因为我用的VScode是用Electron构建的，就选它了。
 
